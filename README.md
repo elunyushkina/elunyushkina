@@ -1,6 +1,6 @@
 ![Header](https://github.com/elunyushkina/elunyushkina/blob/main/assets/logo_.png)
 
-About me
+## I'm a beginner QA specialist | Software tester
 
 Technologies and Tools
 
