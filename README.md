@@ -1,6 +1,4 @@
-![Header](https://github.com/elunyushkina/elunyushkina/blob/main/assets/logo_.png)
-
-## I'm a beginner QA specialist | Software tester
+![Header](https://github.com/elunyushkina/elunyushkina/blob/main/assets/logo_h1.png)
 
 ### Technologies and Tools
 
