@@ -1,4 +1,6 @@
 ![Header](https://github.com/elunyushkina/elunyushkina/blob/main/assets/logo_h.png)
+## My CV
+[Link to CV](https://drive.google.com/drive/folders/1wsw-ECTDhQlvgZXcPquju1tp5r9qpgPw?usp=sharing)
 
 ### Technologies and Tools
 
