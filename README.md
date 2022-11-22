@@ -1,11 +1,21 @@
 ![Header](https://github.com/elunyushkina/elunyushkina/blob/main/assets/logo_.png)
 
-##                  I'm a beginner QA specialist | Software tester
+## I'm a beginner QA specialist | Software tester
 
 ### Technologies and Tools
 
-![BTS JIRA](https://img.shields.io/badge/-JIRA-1e2023?style=for-the-badge&logo=JIRA&logoColor=097CDB)
-![Qase iо](https://img.shields.io/badge/-Qase_iо-1e2023?style=for-the-badge&logo=appveyor)
+![BTS JIRA](https://img.shields.io/badge/-JIRA-3f3f40?style=for-the-badge&logo=JIRA&logoColor=097CDB)
+![Qase iо](https://img.shields.io/badge/-Qase_iо-3f3f40?style=for-the-badge&logo=appveyor)
+![Fiddler](https://img.shields.io/badge/-Fiddler-3f3f40?style=for-the-badge&logo=appveyor&logoColor=53cc63)
+![Charles](https://img.shields.io/badge/-Charles-3f3f40?style=for-the-badge&logo=appveyor&logoColor=b6d5f3)
+![Postman](https://img.shields.io/badge/-Postman-3f3f40?style=for-the-badge&logo=Postman)
+![Soap_UI](https://img.shields.io/badge/-Soap_UI-3f3f40?style=for-the-badge&logo=appveyor&logoColor=fcdc00)
+![Python](https://img.shields.io/badge/-Python-3f3f40?style=for-the-badge&logo=Python)
+![HTML|CSS](https://img.shields.io/badge/-HTML|CSS-3f3f40?style=for-the-badge&logo=appveyor&logoColor=e44d26)
+![MySQL](https://img.shields.io/badge/-MySQL-3f3f40?style=for-the-badge&logo=MySQL)
+![Scrum](https://img.shields.io/badge/-Scrum-3f3f40?style=for-the-badge&logo=appveyor&logoColor=39a1ba)
+
+
 
 Testing Documentation
 
