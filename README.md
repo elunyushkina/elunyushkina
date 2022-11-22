@@ -1,4 +1,4 @@
-![Header](https://github.com/elunyushkina/elunyushkina/blob/main/assets/logo_h1.png)
+![Header](https://github.com/elunyushkina/elunyushkina/blob/main/assets/logo_h.png)
 
 ### Technologies and Tools
 
