@@ -15,10 +15,9 @@
 ![Scrum](https://img.shields.io/badge/-Scrum-3f3f40?style=for-the-badge&logo=appveyor&logoColor=d0d0d0)
 
 
-### Testing Documentation:
-- ![Checklists](https://github.com/elunyushkina/Testing_command_project/tree/master/Testing_command_project/4.%20Check%20lists.%20Bug%20repors/Check-lists%20(export%20from%20Qase.io)
+### Testing Documentation: - [Checklists](https://github.com/elunyushkina/Testing_command_project/tree/master/Testing_command_project/4.%20Check%20lists.%20Bug%20repors/Check-lists%20(export%20from%20Qase.io)
 - [Test-Suites and Test-Cases](https://github.com/artichokeee/test-cases)
-- ![Bug-Reports](https://github.com/elunyushkina/Testing_command_project/tree/master/Testing_command_project/4.%20Check%20lists.%20Bug%20repors/Bug%20Repors%20(export%20from%20Jira)
+- [Bug-Reports](https://github.com/elunyushkina/Testing_command_project/tree/master/Testing_command_project/4.%20Check%20lists.%20Bug%20repors/Bug%20Repors%20(export%20from%20Jira)
 - [Postman Collections](https://github.com/artichokeee/postman)
 
 ### Socials:
