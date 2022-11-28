@@ -16,9 +16,9 @@
 
 
 ### Testing Documentation: 
-- [Checklists](https://github.com/elunyushkina/Testing_command_project/blob/master/Testing_command_project/4.%20Check%20lists.%20Bug%20repors/Check-lists%20(export%20from%20Qase.io)/11.Smoke_testing%2C%20user%20is%20not%20authorized.jpg)
+- [Checklists](https://drive.google.com/drive/folders/1oA0qHYtNyh0QiXA66lYu1ZvthvHl7hlV)
 - [Test-Suites and Test-Cases](https://github.com/artichokeee/test-cases)
-- [Bug-Reports](https://github.com/elunyushkina/Testing_command_project/tree/master/Testing_command_project/4.%20Check%20lists.%20Bug%20repors/Bug%20Repors%20(export%20from%20Jira)
+- [Bug-Reports](https://github.com/elunyushkina/Testing_command_project/tree/master/Testing_command_project/4.%20Check%20lists.%20Bug%20repors)
 - [Postman Collections](https://github.com/artichokeee/postman)
 
 ### Socials:
