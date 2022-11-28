@@ -25,5 +25,3 @@
 [![Header](https://img.shields.io/badge/Telegram-3f3f40?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/elena_lunna)
 [![Header](https://img.shields.io/badge/Linkedin-3f3f40?style=for-the-badge&logo=linkedin&logoColor=0061b0)](https://www.linkedin.com/in/artsiomrusau/)
 [![Header](https://img.shields.io/badge/email-3f3f40?style=for-the-badge&logo=mail.ru&logoColor=d17131)](https://mail.ru/elunushkina@internet.ru)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elunyushkina&show_icons=true&theme=radical)
