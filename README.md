@@ -16,10 +16,10 @@
 
 
 ### Testing Documentation: 
-- [Checklists](https://drive.google.com/drive/folders/1oA0qHYtNyh0QiXA66lYu1ZvthvHl7hlV)
-- [Test-Suites and Test-Cases](https://github.com/artichokeee/test-cases)
-- [Bug-Reports](https://github.com/elunyushkina/Testing_command_project/tree/master/Testing_command_project/4.%20Check%20lists.%20Bug%20repors)
-- [Postman Collections](https://github.com/artichokeee/postman)
+- [Checklists](https://github.com/elunyushkina/Testing_command_project/tree/master/Testing_command_project/4.%20Check%20lists.%20Bug%20repors)
+- [Bug-Reports](https://drive.google.com/drive/folders/1LMBJl3FF1RrGgtvLQas_iwnNjKWD8lV6)
+- [Test Design Technicues](https://docs.google.com/spreadsheets/d/1yZ8oiof6-DWWG0-7dlRV8bloPzKMXj763rzhezo9AyA/edit?usp=sharing)
+- [Postman Collections](https://github.com/elunyushkina/Postman-collection.-Rest-API-Queries.git)
 
 ### Socials:
 [![Header](https://img.shields.io/badge/Telegram-3f3f40?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/elena_lunna)
